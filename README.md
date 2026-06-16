@@ -183,8 +183,6 @@ Task1-Data-Cleaning/
 │
 ├── Mall_Customers.csv
 ├── cleaned_mall_customers.csv
-├── task1.ipynb
-├── task1.py
 └── README.md
 ```
 
